@@ -8,7 +8,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+@import url("http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css");
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css");
 
 body {
 	background: #999;
 }
+
