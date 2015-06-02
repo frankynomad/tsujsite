@@ -1,0 +1,1215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wind",
+				"windowY"
+			],
+			[
+				"windo",
+				"windowH"
+			],
+			[
+				"re",
+				"resizeHeight"
+			],
+			[
+				"ini",
+				"initHeight"
+			],
+			[
+				"grid",
+				"gridWidth"
+			],
+			[
+				"parent",
+				"parentHalfWinHeight"
+			],
+			[
+				"win",
+				"windWidth"
+			],
+			[
+				"divis",
+				"divisions"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"colum",
+				"columnValue"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"msn",
+				"msnry"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"maso",
+				"masonryItem"
+			],
+			[
+				"ma",
+				"masonryItem"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"padding",
+				"paddingTop"
+			],
+			[
+				"ele",
+				"elementHeight"
+			],
+			[
+				"S",
+				"SquareUp"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"gr",
+				"gridHeight"
+			],
+			[
+				"grdi",
+				"gridWidth"
+			],
+			[
+				"grd",
+				"grid-sizer"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mou",
+				"mouseEvent"
+			],
+			[
+				"ctx",
+				"ctx"
+			],
+			[
+				"easi",
+				"easings"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"pare",
+				"parentIndex"
+			],
+			[
+				"ti",
+				"twitter_options"
+			],
+			[
+				"backdc",
+				"background-color"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"gri",
+				"gridWidth"
+			],
+			[
+				"tw",
+				"twitter_options"
+			],
+			[
+				"paren",
+				"parentNode"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"ha",
+				"halfWinHeight"
+			],
+			[
+				"w-t",
+				"wm-tbl	writing-mode: tb-lr;"
+			],
+			[
+				"MARG",
+				"margin"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"Chris",
+				"ChrisTsujiuchi"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"full",
+				"fullWidth"
+			],
+			[
+				"cusom",
+				"customMetaThree"
+			],
+			[
+				"cus",
+				"customMetaThree"
+			],
+			[
+				"vsi",
+				"vsip_post_meta_box"
+			],
+			[
+				"vs",
+				"vsip_post_meta_box"
+			],
+			[
+				"vsis",
+				"vsip_post_meta_box"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"nav",
+				"navClass"
+			],
+			[
+				"logo",
+				"logoClass"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"main",
+				"main_sidebar"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"blg",
+				"bloginfo"
+			],
+			[
+				"liststyle",
+				"list-style-type"
+			],
+			[
+				"liststy",
+				"list-style-type"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"start",
+				"startX"
+			],
+			[
+				"Ran",
+				"randX"
+			],
+			[
+				"rand",
+				"randX"
+			],
+			[
+				"ro",
+				"rocks"
+			],
+			[
+				"rock",
+				"rockImg"
+			],
+			[
+				"roc",
+				"rockImg"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"im",
+				"imageMeasure"
+			],
+			[
+				"spreit",
+				"spriteSheetImg"
+			],
+			[
+				"ra",
+				"randY"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fl",
+				"false"
+			],
+			[
+				"new",
+				"newStreet2Y"
+			],
+			[
+				"ne",
+				"newStreet2Y"
+			],
+			[
+				"stree",
+				"street2"
+			],
+			[
+				"street",
+				"streetSpriteSheet"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"p",
+				"productTable"
+			],
+			[
+				"pr",
+				"productCell"
+			],
+			[
+				"productT",
+				"productTable"
+			],
+			[
+				"Pr",
+				"ProductList"
+			],
+			[
+				"backgc",
+				"background-clip"
+			],
+			[
+				"file",
+				"fileUpload"
+			],
+			[
+				"FILE",
+				"fileUpload"
+			],
+			[
+				"form",
+				"formList"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"for",
+				"formList"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pub",
+				"published"
+			],
+			[
+				"g",
+				"gaugeArray"
+			],
+			[
+				"crea",
+				"createdAt"
+			],
+			[
+				"create",
+				"createdAt"
+			],
+			[
+				"cre",
+				"createdAt"
+			],
+			[
+				"moe",
+				"moveTitle"
+			],
+			[
+				"move",
+				"moveParent"
+			],
+			[
+				"mo",
+				"moveParent"
+			],
+			[
+				"mv",
+				"moveCompany"
+			],
+			[
+				"produ",
+				"productImg"
+			],
+			[
+				"de",
+				"detailParent"
+			],
+			[
+				"deta",
+				"detailTitle"
+			],
+			[
+				"det",
+				"detailTitle"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"P",
+				"PickQuery"
+			],
+			[
+				"pick",
+				"pickId"
+			],
+			[
+				"pi",
+				"pickId"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"eva",
+				"evaluated"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "front-page.php",
+			"settings":
+			{
+				"buffer_size": 3828,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.less",
+			"settings":
+			{
+				"buffer_size": 7122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var j$ = jQuery.noConflict();\nvar CONST = {\n	gutter : 4\n}\n\n// REARRANGE ELEMENTS\n\nvar order = [21,21,13,13, 13,13,21,21, 21,21,17,17, 21,21,19,19, 19,21,21,21]\nj$.each(order,function(index, value) {\n	j$(\".masonryItem:nth-child(\"+value+\")\").prependTo(\"#content\");\n})\nj$(\".me\").prependTo(\"#content\");\n\n//////////////////\n\n// SET COLUMN WIDTHS\n\nfunction columnValue (windWidth ,divisions, columns) {\n	var val;\n\n	divisions = typeof divisions !== 'undefined' ? divisions : 0;\n	columns = typeof columns !== 'undefined' ? columns : 1;\n	\n	val = Math.floor( \n		( windWidth - ( CONST.gutter * (divisions+1) ) ) / divisions \n		);\n	val = val * columns;\n	val += ( ( columns-1 ) * CONST.gutter ) // add value of gutters\n	return val\n};\n\n// SQUAREUP\n\nvar SquareUp = function(selector, callback, smallScreenLandscaped) { // from width\n	var element = j$(selector);\n	console.log(smallScreenLandscaped)\n	if (smallScreenLandscaped == false) {\n		element.each(function(index) {\n		 	j$( selector )[index].style.height = callback+\"px\";\n		 	j$( selector )[index].style.width = callback+\"px\";\n		});\n	}else{\n		element.each(function(index) {\n		 	j$( selector )[index].style.height = smallScreenLandscaped+\"px\";\n		 	j$( selector )[index].style.width = smallScreenLandscaped+\"px\";\n		});\n		alert(\"is smallScreenLandscaped\")\n	}\n\n};\n\n// FULL WIDTH\n\nvar fullHeight = function(parent, selector) {\n	var winHeight = j$(parent).outerHeight();\n	j$( selector ).css({\n		height: winHeight\n	})\n};\n\n// CENTER TO HEIGHT\n\nvar centerToHeight = function( parent, selector ) {\n	var parentHalfWinHeight = j$(parent).height()/2;\n	j$( selector ).each(function(index) {\n		var selectorHeight = (j$( selector )[index].offsetHeight)/2;\n		var centerAmount = parentHalfWinHeight - selectorHeight;\n		j$( selector )[index].style.paddingTop = centerAmount+'px';\n	});\n};\n\n\nvar pxFromTop = j$(window).scrollTop()\nvar initWidth = Math.floor( j$(window).width());\nvar initHeight = Math.floor( j$(window).height());\n\n\nfunction sizing_and_centering (windowX, windowY) {\n	var divisions, w2, smallScreenLandscaped = false;\n	if ( windowX >= 1080 ){\n		divisions = 4;\n		w2 = 2;\n	}else if ( windowX < 1080 && windowX >= 840 ){\n		divisions = 3;\n		w2 = 2;\n	}else if ( windowX < 840 && windowX >= 550 ){\n		divisions = 2;\n		w2 = 2;\n	}else if ( windowX < 550 ){\n		divisions = 1;\n		w2 = 1;\n	}\n\n	if ( windowX > windowY && windowY < 400) {\n		smallScreenLandscaped = windowY;\n		j$('#content').css('width', smallScreenLandscaped+'px');\n	}else{\n		smallScreenLandscaped = false\n	}\n\n	fullHeight(window, '#hero');\n	SquareUp('.masonryItem', \n		columnValue( windowX, divisions, 1 ), smallScreenLandscaped);\n	SquareUp(\".social_options\", \n		columnValue( windowX, divisions, 1 ), smallScreenLandscaped);\n	SquareUp('.w2', \n		columnValue( windowX, divisions, w2 ), smallScreenLandscaped);\n	centerToHeight(window, \"#hero h1\")\n	centerToHeight(\".social_options\", \".intents\");\n	centerToHeight(\".si_item\", \".play\");\n}\nsizing_and_centering(initWidth, initHeight);\n// MASONRY\n\nj$('.masonryItem:nth-child(2)').addClass('grid-sizer')\n\nvar j$container = j$('#content');\nj$container.masonry({\n  // options\n	itemSelector: '.masonryItem',\n	columnWidth: '.grid-sizer',\n	gutter: '.gutter-sizer'\n});\n\n\n//RESIZE EVENTS\n\nj$(window).bind( 'resize',function(e){\n  // code that takes it easy...\n  	var resizeWidth = Math.floor( j$(window).width());\n  	var resizeHeight = Math.floor( j$(window).height());\n	sizing_and_centering(resizeWidth, resizeHeight);\n});\n\n//SCROLL EVENTS\n\nvar OnScroll = function() {\n	if (pxFromTop >= 250 && j$('body').hasClass('home') ){\n		j$('.nav-logo').removeClass('hideLogo');\n		j$('header').css(\"background-color\", \"white\")\n	}\n	else if ( pxFromTop <= 250 && j$('body').hasClass('home') ) {\n		j$('.nav-logo').addClass('hideLogo');\n		j$('header').css(\"background-color\", \"transparent\")\n	}\n};\nOnScroll(pxFromTop);\n\nj$(window).scroll(function() {\n	pxFromTop = j$(window).scrollTop()\n	OnScroll(pxFromTop);\n})\n\n// SILK RENDERING\n\nvar Silk = function(selector, color) {\n	var grid = {\n\n		majorLineWidth: 10,\n		majorStrokeStyle: color,\n		majorDotSize: 1.5,\n		majorFillStyle: color,\n\n		dots: function(context, x, y, w, h, majorRes, minorRes) {\n			this._predraw(context);\n			context.beginPath();\n			context.rect(x, y, w, h);\n			context.clip();\n\n			this._useMajor(context);\n			context.beginPath();\n			for(var i = x; i <= x + w; i += majorRes) {\n				for(var j = y; j <= y + h; j += majorRes) {\n					context.rect(\n						i - \n						this.majorDotSize * \n						.5, \n						j - \n						this.majorDotSize * \n						.5, \n						this.majorDotSize, \n						this.majorDotSize\n						);\n				}\n			}\n			context.fill();\n			this._postDraw(context);\n\n		},\n		_predraw: function(context) {\n			context.save();\n			context.translate(-0.5, -0.5);\n			this._useMajor(context);\n		},\n		_postDraw: function(context) {\n			context.restore();\n		},\n		_useMajor: function(context) {\n			context.lineWidth = this.majorLineWidth;\n			context.strokeStyle = this.majorStrokeStyle;\n			context.fillStyle = this.majorFillStyle;\n		}\n	}\n\n	j$( selector ).each(function(index) {\n		var self = j$(this);\n		var media = j$( selector );\n\n\n		var g = document.createElement(\"CANVAS\");\n		var gridWidth = g.width = media.parent().width();\n\n		if (media.parent()[0].id == 'hero' ){\n			var gridHeight = g.height = gridWidth*2;\n		}else{\n			var gridHeight = g.height = gridWidth;\n		}\n		\n		var ctx = g.getContext(\"2d\");\n			g.className = \"silk\";\n\n			grid.dots(ctx, 0, 0, gridWidth, gridHeight, 3, 3);\n\n	\n			var grd = ctx.createRadialGradient( \n					gridWidth/2 , \n					gridHeight , \n					10 , \n					gridWidth/2 , \n					gridHeight/2.5, \n					gridWidth/1.5\n					);\n				grd.addColorStop(0,\"rgba(0,0,0,0\");\n				grd.addColorStop(1,\"rgba(0,0,0,.5)\");\n\n			ctx.fillStyle = grd;\n			ctx.fillRect(0, 0, gridWidth, gridHeight);	\n\n		j$(g).insertAfter( media[index] )\n	});\n};\nif (j$(\"body\").hasClass(\"home\")){\n	Silk(\".underlay\",\"#90278C\")\n	Silk(\".tweet .intents\",\"#90278C\")\n	Silk(\".si_item .intents\",\"#90278C\")\n}\n\n// MASON ITEMS MOUSEOVER EVENTS\n\nj$('.meta_trigger').mouseenter(function() {\n	j$(this).next().addClass('currentOptions');\n	j$(this).next().next().css('-webkit-filter', 'blur(3px)')\n})\nj$('.masonryItem').mouseleave(function() {\n	var parent = j$(this).find('.social_options')\n	parent.removeClass('currentOptions');\n	parent.next().css('-webkit-filter', 'blur(0px)')\n})\n\n// INSTAGRAM PLAY CONTROLS\n\nj$('.play').click(function() {\n    if( j$(this).prev().get(0).paused ){\n    	j$(this).prev().get(0).play()\n    	j$(this).html('&#xf04c;')\n    }else { \n    	j$(this).prev().get(0).pause();\n    	j$(this).html('&#xf04b;')\n    }  \n})\n\n\n\n\n",
+			"file": "js/custom.js",
+			"file_size": 6561,
+			"file_write_time": 130731980690000000,
+			"settings":
+			{
+				"buffer_size": 6561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/plugins/simple-instagram/includes/simple-instagram-shortcodes.php",
+			"settings":
+			{
+				"buffer_size": 4692,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 1296,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 768,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/js"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/js/pre.js",
+		"/Users/abdav/Downloads/simple-instagram/includes/simple-instagram-shortcodes.php",
+		"/Users/abdav/Downloads/simple-instagram/includes/instagram.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/plugins/simple-instagram/includes/simple-instagram-shortcodes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/plugins/simple-instagram/public/assets/css/public.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/sidebar.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/functions.php",
+		"/Users/abdav/Google Drive/Archive/Third Semester/Motion Graphics 2/w10game 2/js/sprite.js",
+		"/Users/abdav/Google Drive/Archive/Third Semester/Motion Graphics 2/w10game 2/js/game.js",
+		"/Users/abdav/Google Drive/Archive/Third Semester/Motion Graphics 2/w10game 2/js/utils.js",
+		"/Users/abdav/Google Drive/Archive/Third Semester/Motion Graphics 2/final/js/game.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/include/post-meta.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/template-ufe-view-posts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/template-ufe-edit-posts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/template-ufe-insert-posts.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/js/jquery.custom.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/footer.php",
+		"/Users/abdav/Downloads/FrontEndTutorialPart2/template-edit-posts.php",
+		"/Users/abdav/Downloads/FrontEndTutorialPart2/template-view-posts.php",
+		"/Users/abdav/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/abdav/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/js/custom.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-content/themes/sleekUX/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/style.less",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/front-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/js/custom.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/betterux/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/themes/BeyonceTheme/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/webd252/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/webd252/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/webd252/untitled",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/week2/index.php",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Applications/XAMPP/xamppfiles/etc/my.cnf",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/js/player.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/js/rocks.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/js/street.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/js/utils.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/index.html",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/js/game.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/js/sprite.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/js/codeStorage.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/final/js/codeStorage.",
+		"/Users/abdav/Google Drive/JavaScript/week 13/ecom/main.js",
+		"/Users/abdav/Google Drive/JavaScript/week 13/HotPeppers/index.html",
+		"/Users/abdav/Google Drive/Web Programming 3/myfork/webd221-final/Abner-Medina-final/assets/variables.php",
+		"/Users/abdav/Google Drive/Web Programming 3/myfork/webd221-final/Abner-Medina-final/variables.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/css/style.less",
+		"/Users/abdav/Google Drive/Web Programming 3/final/js/script.js",
+		"/Users/abdav/Google Drive/Web Programming 3/final/css/page-styles.less",
+		"/Users/abdav/Google Drive/JavaScript/week 13/js/backstg.js",
+		"/Users/abdav/Google Drive/JavaScript/week 13/style.css",
+		"/Users/abdav/Downloads/dmitryf-elements-191754c/elements.less",
+		"/Users/abdav/Google Drive/JavaScript/week 13/backstg.html",
+		"/Users/abdav/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/abdav/Google Drive/JavaScript/week 13/index.html",
+		"/Users/abdav/Google Drive/Web Programming 3/final/css/variables.less",
+		"/Users/abdav/Google Drive/Web Programming 3/final/css/style.css",
+		"/Users/abdav/Google Drive/Web Programming 3/final/css/responsive.less",
+		"/Users/abdav/Google Drive/Web Programming 3/final/header.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/variables.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/services.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/css/tablet.less",
+		"/Users/abdav/Google Drive/Web Programming 3/final/css/mixins.less",
+		"/Users/abdav/Google Drive/Web Programming 3/final/assets/mixins.less",
+		"/Users/abdav/Google Drive/Web Programming 3/final/index.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/footer.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/about_us.php",
+		"/Users/abdav/Google Drive/Web Programming 3/Abner_Medina - WEBD221- Assignment1/js/script.js",
+		"/Users/abdav/Google Drive/Web Programming 3/final/portfolio.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/pages/about_us.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/pages/services.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/.htaccess",
+		"/Users/abdav/Google Drive/Web Programming 3/final/pages/contact_us.php",
+		"/Users/abdav/Google Drive/Web Programming 3/final/pages/portfolio.php",
+		"/Users/abdav/Google Drive/JavaScript/week 13/js/footer.php",
+		"/Users/abdav/Google Drive/JavaScript/week 13/js/index.php",
+		"/Users/abdav/Google Drive/JavaScript/week 13/js/header.php",
+		"/Users/abdav/Google Drive/JavaScript/week 13/js/user.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/w8game/index.html",
+		"/Users/abdav/Google Drive/JavaScript/week 13/script.js",
+		"/Users/abdav/Google Drive/JavaScript/week 13 project/style.css",
+		"/Users/abdav/Google Drive/JavaScript/week 13 project/user.js",
+		"/Users/abdav/Google Drive/JavaScript/week 13 project/HotPeppers/script.js",
+		"/Users/abdav/Downloads/javascript/module.js",
+		"/Users/abdav/Google Drive/JavaScript/week 13 project/index.html",
+		"/Users/abdav/Google Drive/JavaScript/week 13 project/script.js",
+		"/Users/abdav/Downloads/javascript/class.js",
+		"/Users/abdav/Google Drive/JavaScript/week 13 project/signup.js",
+		"/Users/abdav/Downloads/javascript/index.html",
+		"/Users/abdav/Google Drive/group_file/Final version/Final/js/game.js",
+		"/Users/abdav/Google Drive/group_file/Final version/almost_Final/index.html",
+		"/Users/abdav/Google Drive/Interactive Process/w10game 2/js/utils.js",
+		"/Users/abdav/Downloads/w10game 2/js/sprite.js",
+		"/Users/abdav/Google Drive/Interactive Process/w10game 2/js/temp.js",
+		"/Users/abdav/Google Drive/JavaScript/week 12/style.css",
+		"/Users/abdav/Google Drive/JavaScript/week 12/script.js",
+		"/Users/abdav/Google Drive/Interactive Process/w10game 2/js/jake.js",
+		"/Users/abdav/Google Drive/JavaScript/week 11/Project/script.js",
+		"/Users/abdav/Google Drive/JavaScript/week 11/Project/accounts.js",
+		"/Users/abdav/Google Drive/JavaScript/week 11/Project/dribbbleAPI.js",
+		"/Users/abdav/Google Drive/JavaScript/week 11/Project/rating.js",
+		"/Users/abdav/Google Drive/JavaScript/week 11/Project/style.css",
+		"/Users/abdav/Google Drive/JavaScript/week 11/Project/index.html",
+		"/Users/abdav/Google Drive/JavaScript/week 11/Project/README.md",
+		"/Users/abdav/Google Drive/Web Programming 3/week11/WEBD-221---Assignment-3/css/main.css",
+		"/Users/abdav/Google Drive/Web Programming 3/week11/WEBD-221---Assignment-3/css/mixins.css",
+		"/Users/abdav/Downloads/relationalData/script.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/w8game/js/utils.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/w8game/js/sprite.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/w8game/js/player.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/w8game/js/mouse.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/w8game/js/game.js",
+		"/Users/abdav/Google Drive/Motion Graphics 2/w8game/js/cheese.js",
+		"/Users/abdav/Google Drive/JavaScript/week 5/ToDoListExample.html",
+		"/Users/abdav/Google Drive/JavaScript/Week 4/script.js",
+		"/Users/abdav/Google Drive/JavaScript/Week 4/ToDo WebApp/assets/css/normalize.css",
+		"/Users/abdav/Google Drive/JavaScript/Week 4/index.html",
+		"/Users/abdav/Google Drive/JavaScript/week 5/parse-js-blank/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"css",
+			"content",
+			"console",
+			"cons",
+			"console",
+			"can",
+			"pxF",
+			"gutter",
+			"play",
+			"transi",
+			"trasi",
+			"href",
+			"text-ali",
+			"50",
+			"inte",
+			"intents",
+			"ul",
+			"profile",
+			"console",
+			"like",
+			"text",
+			"filter",
+			"webki",
+			"3em",
+			"each",
+			"meta",
+			".twitter_trigger",
+			"img",
+			"si_feed",
+			"w_para",
+			"$image",
+			" $image",
+			"$image",
+			"image",
+			"console",
+			"$image",
+			"from",
+			"create",
+			"3px",
+			"filter",
+			"options",
+			"under",
+			"class",
+			"clear",
+			"radia",
+			"hover",
+			"console",
+			"under",
+			"undex",
+			"unde",
+			"under",
+			"overla",
+			"twitter_intents",
+			"parse",
+			"function scripts_enq(){\n	    wp_register_script( 'custom-script', get_template_directory_uri() . '/js/custom.js', \"\", \"1.0\",  true);\n	    wp_enqueue_script( 'custom-script' );\n	}\n	add_action( 'wp_enqueue_scripts', 'scripts_enq' );\n",
+			"2px",
+			"a {",
+			"a",
+			"current",
+			"id",
+			"?>\n",
+			"black",
+			"}\n",
+			"OPca",
+			"OP",
+			"cache",
+			"OP",
+			"error",
+			"reporting",
+			"error",
+			";\n",
+			"MOVE_SPEED",
+			"mp3",
+			"bgmusic",
+			"idle",
+			"push",
+			"console",
+			"   console.log(newStreetY)",
+			";\n",
+			"street2",
+			"street",
+			"street2",
+			"street2.y",
+			"street.y",
+			"0",
+			"speed",
+			"frame",
+			"req",
+			"walls",
+			"Play",
+			"Pla",
+			"// ",
+			"Play",
+			"main",
+			"List",
+			"console",
+			"nav",
+			"bottom",
+			"550px",
+			"400px",
+			"height",
+			"#form",
+			"form",
+			"from",
+			"nav",
+			"create",
+			"find",
+			"query",
+			"console",
+			"ul",
+			"border-radius",
+			"spin",
+			"fa",
+			"faf",
+			"console",
+			"consolw",
+			"consoel",
+			"data",
+			"console",
+			"parentNode",
+			"parenNode",
+			"consol",
+			"over",
+			"console",
+			"formL",
+			"unbid",
+			"bind",
+			"detai"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6894,
+								6894
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6259.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/custom.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1804,
+								1804
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Applications/XAMPP/xamppfiles/htdocs/tsujsite/wp-content/plugins/simple-instagram/includes/simple-instagram-shortcodes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1353,
+								1353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 853.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								801,
+								801
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BeyonceTheme.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
