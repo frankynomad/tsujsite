@@ -28,12 +28,14 @@ h2 {
   font-size: 1.2em;
   letter-spacing: 3px;
   display: block;
+  position: relative;
 }
 #directorSpan {
   font-size: .5em;
   display: block;
-  line-height: 60%;
+  line-height: 40%;
   letter-spacing: 13px;
+  position: relative;
 }
 #headshotsSpan {
   display: block;
